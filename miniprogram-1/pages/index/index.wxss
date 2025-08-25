@@ -1,0 +1,16 @@
+/* 样式设计 */
+.container{
+    height: 100wh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.abc{
+    width: 400rpx;
+    border-radius: 50%;
+}
+text{
+    font-size: 50rpx;
+    color: red;
+}
